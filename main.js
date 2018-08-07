@@ -234,7 +234,7 @@ body{
 }
 `
 let codeHtml = `
-<audio autoplay loop src="http://pcnr8hfja.bkt.clouddn.com/%E6%9D%8E%E9%9B%AA%E8%8E%B1%20-%20%E5%A5%BD%E6%83%B3%E4%BD%A0.mp3"></audio>
+<audio autoplay loop src="//pcnr8hfja.bkt.clouddn.com/%E6%9D%8E%E9%9B%AA%E8%8E%B1%20-%20%E5%A5%BD%E6%83%B3%E4%BD%A0.mp3"></audio>
 <div class="wrapper">
 <div class="face"></div>
 <div class="eye left"><div class="eyeBall left"><div class="eyeHight"></div></div></div><div class="eye right"><div class="eyeBall right"><div class="eyeHight"></div></div></div>
