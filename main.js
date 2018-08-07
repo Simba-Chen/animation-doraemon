@@ -7,7 +7,7 @@ function writeCss(code,callback){
             window.clearInterval(id)
             callback()
         }
-    },10)
+    },5)
 }
 
 function writeHtml(code,callback){
@@ -35,6 +35,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: yellow;
 }
 .wrapper{
     height: 500px;
